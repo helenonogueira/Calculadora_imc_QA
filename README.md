@@ -100,6 +100,18 @@ imc_calculator/
 - `test_classificacao_obesidade_grau_3`
 - `test_limites_das_faixas` (testa valores limítrofes)
 
+  ## 📸 Capturas de Tela
+
+### Execução dos Testes
+![Testes Executando](<img width="1922" height="862" alt="rodando testes e gerando relatorio html" src="https://github.com/user-attachments/assets/27258cfd-f780-452f-9037-01d78bc5e8bd" />)
+
+*Figura 1: Execução dos testes unitários com pytest mostrando 100% de aprovação*
+
+### Relatório de Cobertura
+![Relatório de Cobertura](<img width="1914" height="860" alt="relatorio html imc" src="https://github.com/user-attachments/assets/bb9f7504-d9b1-4791-ab67-0b25324dbd2a" />)
+*Figura 2: Relatório HTML de cobertura de código mostrando 100% de cobertura*
+
+
 ---
 
 ## 🚀 Como Executar
