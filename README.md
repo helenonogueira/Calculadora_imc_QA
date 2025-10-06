@@ -4,7 +4,7 @@
 
 Este projeto implementa uma **Calculadora de Índice de Massa Corporal (IMC)** com uma suíte completa de testes unitários automatizados. O objetivo é demonstrar boas práticas de desenvolvimento orientado a testes (TDD) e validação de regras de negócio.
 
-### 🎯 Objetivo Educacional
+### 🎯 Objetivo
 
 Demonstrar a aplicação de testes unitários para validar regras de negócio, garantindo:
 - ✅ Alta cobertura de código
