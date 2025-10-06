@@ -28,7 +28,8 @@ imc_calculator/
 │   └── test_calculadora_imc.py
 │
 ├── requirements.txt             
-└── README.md                 
+└── README.md
+└── teste_manual.py (Criado para testar manualmente valores e formas de entrada)                
 ```
 
 ---
