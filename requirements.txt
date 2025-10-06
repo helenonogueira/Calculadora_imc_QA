@@ -1,0 +1,11 @@
+# Dependências do Projeto
+# Instalar com: pip install -r requirements.txt
+
+# Framework de testes
+pytest==7.4.3
+
+# Cobertura de código
+pytest-cov==4.1.0
+
+# Geração de relatórios
+coverage==7.3.2
